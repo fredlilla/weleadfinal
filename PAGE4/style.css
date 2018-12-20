@@ -1,0 +1,108 @@
+.container-mobile {
+  width: 414px;
+  background-color: white;
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+  padding: 0px 5px;
+  display: flex;
+  align-items: flex-end;
+}
+ 
+body {
+  margin: 0px;
+  background-color: black;
+
+}
+.texte {
+	position: absolute;
+	top: 669px;
+	font-family:'Roboto', sans-serif;
+	color: white;
+	background-color : #DF0A70;
+	opacity: 0.9;
+	font-size: 19PX;
+	width: 60PX;
+	border-radius: 12px;
+	height: 30px;
+	padding-top: 6px;
+	margin-left: 350px;
+	text-decoration: none;
+
+}
+.camera{
+	width: 38px;
+	position: absolute;
+	bottom: 15px;
+	margin-left: 7px;
+}
+.fanny {
+	width: 70px;
+	position: absolute;
+	top: 27px;
+	border-radius: 8px;
+	right: 435px;
+	opacity: 0.9;
+}
+.vendredi {
+	font-size: 10px;
+	position: absolute;
+	top: 130px;
+	background-color: #E4F4F9;
+	width: 60px;
+	border-radius: 6px;
+	padding-bottom: 2px;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: lighter;
+	margin-left: 170px;
+
+}
+
+.imput{
+	position: absolute;
+	width: 280px;
+	border-radius: 12px;
+	margin-top: -18px;
+	margin-left: 60px;
+	height: 30px;
+	border-style: solid;
+	opacity: 0.3;
+}
+
+.fleche {
+	position: absolute;
+	top: 40px;
+	width: 75px;
+	margin-left: 15px;
+}
+.nom {
+	position: absolute;
+	top: 25px;
+	margin-left: 255px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 23px;
+	font-weight: medium;
+	color: linear-gradient(blue, yellow);
+	box-shadow: 4px;
+
+}
+.etoiles {
+	position: absolute;
+	top: 75px;
+	width: 115px;
+	margin-left: 224px;
+
+}
+.conv {
+	position: absolute;
+	top: 160px;
+	width: 415px;
+	margin-left: -3px;
+
+}
+.ligne {
+	position: absolute;
+	top: 120px;
+	margin-left: 5px;
+	width: 400px;
+}

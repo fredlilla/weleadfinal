@@ -1,0 +1,42 @@
+.container-mobile {
+  width: 414px;
+  background-color: white;
+  text-align: center;
+  margin: auto;
+  min-height: 100vh;
+  padding: 0px 5px;
+  background-image: url("images/maps2.png");
+  background-size: cover;
+  position: relative;
+}
+ 
+ .texte{
+ 	background-color: #F2F2F2;
+ 	border-radius: 8px;
+ 	height: 50px;
+ 	padding-top: 25px;
+ 	font-family: 'Roboto', sans-serif;
+ 	color: #DF0A70;
+ 	opacity: 0.8;
+ 	margin-top: 20px;
+
+ }
+
+ .image{
+ 	width: 20px;
+ 	position: absolute;
+ 	bottom: 205px;
+ 	left:85px
+ 	;
+
+ }
+
+ .h2 { 
+ 	display: flex;
+ 	align-items: center;
+
+ }
+body {
+  margin: 0px;
+  background-color: black;
+}
